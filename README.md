@@ -1,10 +1,14 @@
+# @discere-os/fdtd3d.wasm
+
+WebAssembly port of FDTD3D - An open-source implementation of FDTD Maxwell's equations solver for different dimensions (1D, 2D, 3D) with support for concurrency.
+
+[![CI/CD](https://github.com/discere-os/discere-nucleus/actions/workflows/fdtd3d-wasm-ci.yml/badge.svg)](https://github.com/discere-os/discere-nucleus/actions)
+[![JSR](https://jsr.io/badges/@discere-os/fdtd3d.wasm)](https://jsr.io/@discere-os/fdtd3d.wasm)
+[![npm version](https://badge.fury.io/js/@discere-os%2Ffdtd3d.wasm.svg)](https://badge.fury.io/js/@discere-os%2Ffdtd3d.wasm)
+[![License](https://img.shields.io/badge/License-GPL--2.0-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-alpha-orange.svg)](https://github.com/discere-os/discere-nucleus)
+
 ![fdtd3d](Docs/Images/logo.png)
-
-[![Build Status](https://github.com/zer011b/fdtd3d/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/build.yml/) [![Build Status](https://github.com/zer011b/fdtd3d/actions/workflows/build-cuda.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/build-cuda.yml/) [![Build Status](https://github.com/zer011b/fdtd3d/actions/workflows/build-arm.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/build-arm.yml/) [![Build Status](https://github.com/zer011b/fdtd3d/actions/workflows/build-arm64.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/build-arm64.yml/) [![Build Status](https://github.com/zer011b/fdtd3d/actions/workflows/build-riscv64.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/build-riscv64.yml/) [![Build Status](https://github.com/zer011b/fdtd3d/actions/workflows/build-ppc64el.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/build-ppc64el.yml/)
-
-[![Unit Tests Status](https://github.com/zer011b/fdtd3d/actions/workflows/unit-test.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/unit-test.yml/) [![Unit Tests Status](https://github.com/zer011b/fdtd3d/actions/workflows/unit-test-cuda.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/unit-test-cuda.yml/) [![Unit Tests Status](https://github.com/zer011b/fdtd3d/actions/workflows/unit-test-arm.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/unit-test-arm.yml/) [![Unit Tests Status](https://github.com/zer011b/fdtd3d/actions/workflows/unit-test-arm64.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/unit-test-arm64.yml/) [![Unit Tests Status](https://github.com/zer011b/fdtd3d/actions/workflows/unit-test-riscv64.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/unit-test-riscv64.yml/) [![Unit Tests Status](https://github.com/zer011b/fdtd3d/actions/workflows/unit-test-ppc64el.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/unit-test-ppc64el.yml/)
-
-[![Test Suite Status](https://github.com/zer011b/fdtd3d/actions/workflows/test-suite.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/test-suite.yml/) [![Test Suite Status](https://github.com/zer011b/fdtd3d/actions/workflows/test-suite-arm.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/test-suite-arm.yml/) [![Test Suite Status](https://github.com/zer011b/fdtd3d/actions/workflows/test-suite-arm64.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/test-suite-arm64.yml/) [![Test Suite Status](https://github.com/zer011b/fdtd3d/actions/workflows/test-suite-riscv64.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/test-suite-riscv64.yml/) [![Test Suite Status](https://github.com/zer011b/fdtd3d/actions/workflows/test-suite-ppc64el.yml/badge.svg?branch=master)](https://github.com/zer011b/fdtd3d/actions/workflows/test-suite-ppc64el.yml/)
 
 # fdtd3d
 
